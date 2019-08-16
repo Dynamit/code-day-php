@@ -1,0 +1,41 @@
+id,first_name,last_name,address1,city,state,zip,home_phone,cell_phone,allow_text,email,allow_email
+1,Bree,Effnert,913 Weeping Birch Avenue,Albuquerque,New Mexico,87105,505-599-9784,520-878-5983,true,beffnert0@smugmug.com,true
+2,Cicely,Robillard,0 1st Lane,Las Vegas,Nevada,89115,702-378-9270,503-430-0302,false,crobillard1@sun.com,true
+3,Astrix,Frackiewicz,4 Anderson Junction,Los Angeles,California,90055,213-806-0265,513-866-6380,true,afrackiewicz2@cyberchimps.com,true
+4,Ettore,McCurdy,35 Arapahoe Crossing,Albany,New York,12237,518-663-7283,202-289-1111,false,emccurdy3@pcworld.com,false
+5,Anna-diane,Stinton,84571 8th Alley,Garden Grove,California,92844,310-603-3048,330-667-2683,true,astinton4@abc.net.au,false
+6,Padraic,Rutter,3798 Sutteridge Avenue,Yakima,Washington,98907,509-995-5182,859-350-1215,false,prutter5@free.fr,true
+7,Hanson,Gallety,41 Monterey Street,Milwaukee,Wisconsin,53225,414-654-0790,480-917-2080,true,hgallety6@wikispaces.com,false
+8,Abelard,Meace,5 Killdeer Crossing,Hagerstown,Maryland,21747,240-510-5169,202-817-1277,false,ameace7@ask.com,true
+9,Saunderson,Corkett,62 Hudson Lane,Evansville,Indiana,47732,812-818-5437,480-611-6385,false,scorkett8@macromedia.com,true
+10,Delly,McLaughlin,667 Prentice Junction,New Orleans,Louisiana,70179,504-976-4163,763-485-1167,true,dmclaughlin9@ted.com,false
+11,Analise,Navarijo,812 Porter Hill,Kansas City,Missouri,64187,816-988-7129,561-844-4691,false,anavarijoa@jigsy.com,false
+12,Alleen,Westcot,90292 Pond Point,Indianapolis,Indiana,46207,317-858-6513,405-933-2554,true,awestcotb@symantec.com,false
+13,Sylvester,Crevy,49 Jenna Pass,Washington,District of Columbia,20268,202-399-4285,202-413-6367,false,screvyc@chicagotribune.com,false
+14,Moore,Harfoot,7 Hagan Place,Washington,District of Columbia,20310,202-917-9447,415-125-6057,false,mharfootd@oaic.gov.au,true
+15,Shelli,Witcombe,7111 Nevada Lane,Colorado Springs,Colorado,80935,719-489-6886,407-221-1155,false,switcombee@vk.com,true
+16,Shel,Banghe,16 Oak Court,El Paso,Texas,88589,915-371-1905,405-364-2166,true,sbanghef@yellowpages.com,true
+17,Chloette,Harber,2 Oriole Parkway,New York City,New York,10004,646-737-0451,678-155-1980,true,charberg@ftc.gov,true
+18,Hollie,Hunnaball,35896 Spaight Drive,Newark,New Jersey,07195,862-870-5490,801-329-1256,false,hhunnaballh@wisc.edu,false
+19,Luther,Kerby,028 Lighthouse Bay Point,Topeka,Kansas,66667,785-876-9435,214-717-4703,true,lkerbyi@mail.ru,true
+20,Heidie,Cobelli,0540 Sunnyside Hill,Fort Wayne,Indiana,46805,260-645-8785,386-178-7122,false,hcobellij@wordpress.com,false
+21,Ramonda,Rackley,203 Lillian Alley,Fort Worth,Texas,76147,817-432-9236,405-857-3134,true,rrackleyk@nature.com,false
+22,Tiphani,Hockell,87 Thompson Alley,Aiken,South Carolina,29805,803-276-9366,312-262-8408,true,thockelll@qq.com,false
+23,Aldin,Asel,2 Golf View Point,Buffalo,New York,14263,716-698-7340,205-227-6886,false,aaselm@blog.com,false
+24,Owen,Drennan,9397 Glacier Hill Center,Portland,Oregon,97211,208-768-0189,214-582-7785,false,odrennann@simplemachines.org,false
+25,Selig,Nuss,18 Cardinal Crossing,Palo Alto,California,94302,650-506-4067,214-421-5328,false,snusso@list-manage.com,true
+26,Pip,Culvey,20869 Ridgeway Lane,Winston Salem,North Carolina,27105,336-263-3237,804-113-1180,true,pculveyp@devhub.com,false
+27,Kinsley,Tilbury,48179 Hermina Trail,Louisville,Kentucky,40256,502-762-1465,330-778-4182,true,ktilburyq@360.cn,false
+28,Harland,Ludovico,10684 Delaware Crossing,Peoria,Illinois,61605,309-611-3694,505-557-8247,false,hludovicor@live.com,true
+29,Darcy,Huscroft,94451 Morrow Parkway,Chandler,Arizona,85246,602-174-1909,202-995-6841,true,dhuscrofts@cafepress.com,true
+30,Ertha,Stollen,4075 Kim Parkway,Houston,Texas,77095,832-706-0364,909-278-2544,true,estollent@springer.com,true
+31,Huey,Denisot,67437 Delaware Park,Fresno,California,93778,559-280-7927,772-865-7146,false,hdenisotu@baidu.com,true
+32,Frayda,Ovendale,00 Debra Terrace,Gulfport,Mississippi,39505,228-782-3607,812-573-8388,false,fovendalev@cnn.com,true
+33,Rollie,Pitkeathley,00464 Ronald Regan Park,San Diego,California,92105,858-800-1496,812-818-5493,true,rpitkeathleyw@xinhuanet.com,true
+34,Brinn,Cremen,83 Sycamore Avenue,Fullerton,California,92640,559-197-7871,216-662-1284,true,bcremenx@amazon.de,true
+35,Kennedy,Stebbing,940 Corry Alley,Fresno,California,93715,209-373-4152,415-752-3624,false,kstebbingy@unesco.org,false
+36,Wilden,Adamo,399 Continental Hill,Honolulu,Hawaii,96825,808-867-9077,763-406-3845,false,wadamoz@wired.com,false
+37,Luca,Stead,27393 School Junction,Houston,Texas,77055,713-985-1838,361-346-7587,false,lstead10@instagram.com,true
+38,Boris,Wade,620 American Ash Hill,Fort Worth,Texas,76192,682-584-1231,305-873-1033,false,bwade11@amazon.com,true
+39,Rozina,Szapiro,0 Nelson Plaza,Corpus Christi,Texas,78465,361-694-5324,301-914-8762,false,rszapiro12@npr.org,false
+40,Linet,Hammersley,6 Eggendart Circle,Albuquerque,New Mexico,87195,505-853-5201,407-925-9092,true,lhammersley13@myspace.com,false

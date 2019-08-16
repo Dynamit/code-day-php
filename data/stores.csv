@@ -1,0 +1,41 @@
+id,name,address1,city,state,zip,latitude,longitude,timezone,phone,email,manager
+1,Schuster-Jakubowski,8842 Valley Edge Road,Worcester,Massachusetts,01610,42.2492,-71.8108,America/New_York,508-415-6315,focahey0@ox.ac.uk,Fitzgerald O'Cahey
+2,Ratke Group,7 Vahlen Alley,San Antonio,Texas,78255,29.6701,-98.6873,America/Chicago,210-917-1581,jmolloy1@sakura.ne.jp,Johann Molloy
+3,"Monahan, Bosco and Gulgowski",151 Schurz Place,Visalia,California,93291,36.3551,-119.301,America/Los_Angeles,209-844-5624,pvasyunin2@admin.ch,Peggie Vasyunin
+4,Stokes-O'Hara,85856 Schiller Parkway,Van Nuys,California,91406,34.2006,-118.4868,America/Los_Angeles,626-652-0318,mhundey3@java.com,Merry Hundey
+5,Ritchie and Sons,32446 Clarendon Way,Wilmington,North Carolina,28410,34.0881,-77.8526,America/New_York,910-586-5608,sforst4@hhs.gov,Sephira Forst
+6,"Adams, Hartmann and Rosenbaum",90 Barby Trail,New Haven,Connecticut,06538,41.3657,-72.9275,America/New_York,203-847-4399,tloram5@issuu.com,Tiphanie Loram
+7,Ernser-Dare,41480 Quincy Alley,Orlando,Florida,32885,28.5456,-81.3782,America/New_York,407-952-1624,jfrantsev6@cisco.com,Jimmy Frantsev
+8,Collier-Hahn,024 Reinke Point,New Orleans,Louisiana,70149,30.033,-89.8826,America/Chicago,504-261-4502,mmeas7@abc.net.au,Merralee Meas
+9,Ankunding-Hane,68 Corry Center,Johnstown,Pennsylvania,15906,40.3522,-78.9383,America/New_York,814-819-3268,lcullotey8@statcounter.com,Laureen Cullotey
+10,"Ortiz, Schmidt and Murazik",322 Aberg Way,Huntington,West Virginia,25716,38.4134,-82.2774,America/New_York,304-337-2343,tenrico9@umich.edu,Tracee Enrico
+11,Bartoletti-Hahn,249 Maywood Way,Boise,Idaho,83732,43.4599,-116.244,America/Boise,208-181-0337,lkralea@hugedomains.com,Lucy Krale
+12,Pfeffer LLC,5 Shelley Place,Houston,Texas,77060,29.9335,-95.3981,America/Chicago,281-476-6348,mclaworthb@businessweek.com,Marve Claworth
+13,Hickle-McDermott,6506 Mockingbird Place,Lexington,Kentucky,40515,37.9651,-84.4708,America/New_York,859-481-8331,ekurtenc@europa.eu,Edwin Kurten
+14,Sanford and Sons,491 Kings Lane,Tucson,Arizona,85720,31.9701,-111.8907,America/Phoenix,520-117-2139,nhummd@mapy.cz,Norman Humm
+15,"O'Connell, Franecki and Torphy",21 Old Shore Center,Pittsburgh,Pennsylvania,15266,40.4344,-80.0248,America/New_York,-468-7136,ggaynore@youtu.be,Guillemette Gaynor
+16,Ruecker Group,3425 Northfield Way,Biloxi,Mississippi,39534,30.4067,-88.9211,America/Chicago,228-499-8256,jhabletf@nifty.com,Jerry Hablet
+17,Murphy-Mayert,88566 Montana Terrace,Washington,District of Columbia,20337,38.8933,-77.0146,America/New_York,202-222-2001,kralfeg@ocn.ne.jp,Kath Ralfe
+18,"Hickle, Casper and Bernhard",4 Vera Park,Washington,District of Columbia,20099,38.8933,-77.0146,America/New_York,202-925-5794,tellioth@europa.eu,Timmi Elliot
+19,"Quitzon, Prohaska and Emard",627 Montana Point,Buffalo,New York,14210,42.8614,-78.8206,America/New_York,716-875-7920,hdallicoati@tinypic.com,Hewet Dallicoat
+20,Hegmann-Leannon,1 Kensington Parkway,Canton,Ohio,44760,40.854,-81.4278,America/New_York,330-257-9996,gelsmorj@amazon.co.jp,Gottfried Elsmor
+21,Ward and Sons,96591 Roxbury Way,Washington,District of Columbia,20073,38.897,-77.0251,America/New_York,202-921-1837,hmegarryk@mail.ru,Haleigh Megarry
+22,Oberbrunner and Sons,8315 Kings Trail,Oklahoma City,Oklahoma,73147,35.5514,-97.4075,America/Chicago,405-565-1084,bnecrewsl@blog.com,Bevon Necrews
+23,"Mante, O'Keefe and Klocko",45 Coolidge Court,Baton Rouge,Louisiana,70826,30.5159,-91.0804,America/Chicago,225-763-5648,eroism@com.com,Elianore Rois
+24,"Simonis, Bednar and Treutel",907 Marcy Center,West Palm Beach,Florida,33411,26.6644,-80.1741,America/New_York,561-125-7418,pakredn@ca.gov,Penelope Akred
+25,Hills Inc,9487 Fuller Parkway,Carol Stream,Illinois,60158,41.9166,-88.1208,America/Chicago,309-858-4799,cfruisho@lycos.com,Corney Fruish
+26,Hammes Inc,7 Tony Lane,Buffalo,New York,14205,42.7684,-78.8871,America/New_York,716-413-9309,dashlingp@networkadvertising.org,Dorella Ashling
+27,Ernser-Veum,075 Rutledge Junction,Wichita,Kansas,67236,37.5422,-97.2871,America/Chicago,316-604-6886,lgrouseq@vimeo.com,Lindi Grouse
+28,"Tillman, Kovacek and Lindgren",564 Dayton Point,Virginia Beach,Virginia,23471,36.7957,-76.0126,America/New_York,757-566-9325,fstater@twitter.com,Fredia State
+29,Cartwright LLC,76211 Clove Street,Saint Louis,Missouri,63110,38.6185,-90.2564,America/Chicago,314-942-2353,jhebblewaites@yahoo.com,Jamie Hebblewaite
+30,"Douglas, Robel and Dare",6329 Crowley Lane,Seattle,Washington,98166,47.4511,-122.353,America/Los_Angeles,253-574-3634,cstubbingtont@dell.com,Constance Stubbington
+31,"Blanda, Borer and Altenwerth",9021 Kingsford Avenue,Dulles,Virginia,20189,39.009,-77.4422,America/New_York,571-353-7794,ebertomeu@squarespace.com,Elinor Bertome
+32,"Wolf, Rowe and Heathcote",07033 Oakridge Way,San Diego,California,92115,32.7607,-117.0721,America/Los_Angeles,619-456-1936,beardleyv@columbia.edu,Berti Eardley
+33,Price and Sons,0 Roth Street,Clearwater,Florida,34629,27.9654,-82.8001,America/New_York,727-496-2890,mbonasw@auda.org.au,Missie Bonas
+34,"Baumbach, Dicki and Russel",4 Scott Pass,Spokane,Washington,99205,47.6964,-117.4399,America/Los_Angeles,509-764-9465,vmougetx@privacy.gov.au,Verney Mouget
+35,Toy and Sons,6950 Sycamore Plaza,Terre Haute,Indiana,47805,39.5327,-87.3255,America/Indiana/Indianapolis,812-839-9337,gamphletty@economist.com,Gradeigh Amphlett
+36,Klocko-Bosco,2 Mockingbird Crossing,Englewood,Colorado,80150,39.7388,-104.4083,America/Denver,303-319-1012,mausielloz@xinhuanet.com,Maritsa Ausiello
+37,Beatty Inc,4730 Jay Junction,Washington,District of Columbia,20370,38.8933,-77.0146,America/New_York,202-108-7320,jnoblet10@latimes.com,Juliann Noblet
+38,Lindgren Inc,2 Longview Court,Sacramento,California,94230,38.3774,-121.4444,America/Los_Angeles,916-423-5912,mtipler11@1688.com,Malinda Tipler
+39,"Cruickshank, Veum and Wyman",8 Jackson Park,Houston,Texas,77010,29.7543,-95.3609,America/Chicago,713-746-1310,rvallery12@etsy.com,Reba Vallery
+40,"Corwin, Gleichner and Lakin",94 Ilene Center,Cincinnati,Ohio,45243,39.1848,-84.3448,America/New_York,513-473-9701,liacobassi13@virginia.edu,Lionello Iacobassi
