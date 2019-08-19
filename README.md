@@ -82,4 +82,4 @@ Create some manner to test the functionality of your API.
 
 ## Completion
 
-When you have finished your code day, create a pull request into the original `master` branch of this repository for the team to review.
+When you have finished your code day, create a pull request into the original `master` branch of this repository (https://github.com/Dynamit/code-day-php) for the team to review.
