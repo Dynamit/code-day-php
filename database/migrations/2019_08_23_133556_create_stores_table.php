@@ -27,6 +27,7 @@ class CreateStoresTable extends Migration
             $table->string('email')->nullable();
             $table->string('manager')->nullable();
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

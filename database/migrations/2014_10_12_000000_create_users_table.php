@@ -20,6 +20,7 @@ class CreateUsersTable extends Migration
             $table->string('address1')->nullable();
             $table->string('city')->nullable();
             $table->string('state')->nullable();
+            $table->string('zip')->nullable();
             $table->string('home_phone')->nullable();
             $table->string('cell_phone')->nullable();
             $table->boolean('allow_text')->default(0);
@@ -30,6 +31,7 @@ class CreateUsersTable extends Migration
             $table->string('password');
             $table->rememberToken();
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

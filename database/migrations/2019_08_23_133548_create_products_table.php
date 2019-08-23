@@ -16,7 +16,7 @@ class CreateProductsTable extends Migration
         Schema::create('products', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
-            $table->string('description')->nullable();
+            $table->text('description')->nullable();
             $table->string('weight')->nullable();
             $table->string('height')->nullable();
             $table->string('color')->nullable();
@@ -24,6 +24,7 @@ class CreateProductsTable extends Migration
             $table->string('sku')->nullable();
             $table->string('inventory_cnt')->nullable();
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

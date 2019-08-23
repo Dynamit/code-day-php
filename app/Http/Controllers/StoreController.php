@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Store;
+
 use Illuminate\Http\Request;
 
 class StoreController extends Controller
@@ -9,11 +11,11 @@ class StoreController extends Controller
     /**
      * Display a listing of the resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return Store[]|\Illuminate\Database\Eloquent\Collection
      */
     public function index()
     {
-        //
+        return Store::all();
     }
 
     /**
@@ -23,62 +25,61 @@ class StoreController extends Controller
      */
     public function create()
     {
-        //
+        return 'Create a new store';
     }
 
     /**
      * Store a newly created resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
+     * @return bool
      */
     public function store(Request $request)
     {
-        //
+        return false;
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
+     * @param  Store  $store
+     * @return Store
      */
-    public function show($id)
-    {
-        //
+    public function show(Store $store) {
+        return $store;
     }
 
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
+     * @param  Store  $store
+     * @return Store
      */
-    public function edit($id)
+    public function edit(Store $store)
     {
-        //
+        return $store;
     }
 
     /**
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
+     * @param  Store  $store
+     * @return Store
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, Store $store)
     {
-        //
+        return $store;
     }
 
     /**
      * Remove the specified resource from storage.
      *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
+     * @param  Store  $store
+     * @return bool|null
      */
-    public function destroy($id)
+    public function destroy(Store $store)
     {
-        //
+        return $store->delete();
     }
 }
